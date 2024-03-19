@@ -7,7 +7,7 @@
 
 ## Semana 1
 - [Slides](Lectures2024/01_Clase_IMT3850.pdf)
-- [Jupyter notebook](Jupyternotebooks2024/Semana1/Algebra Lineal.ipynb)
+- [Jupyter notebook](Jupyternotebooks2024/Semana1/AlgebraLineal1.ipynb)
 
 ## Semana 2
 
